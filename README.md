@@ -2,19 +2,6 @@
 
 A machine learning project to detect fraudulent financial transactions using a Random Forest Classifier. Built on a real-world style dataset of mobile money transactions with over 1 million records.
 
----
-
-## Dataset
-
-This project uses the PaySim synthetic financial dataset available on Kaggle.
-
-Download it here: https://docs.google.com/spreadsheets/d/11U2Mx-QH985YzIUisSSq5UTqscKCEXmE/edit?usp=sharing&ouid=114098444175794684391&rtpof=true&sd=true 
-
-After downloading, rename the file to `Fraud.xlsx` and place it in the same folder as the notebook before running.
-
-The dataset is not included in this repo due to its size (82MB).
-
-Also , a small dataset of 20000 rows is included in repo.
 
 ---
 
